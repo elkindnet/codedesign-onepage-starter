@@ -1,16 +1,17 @@
-# [Code/Design](http://codedesign.elkind.net/) - [One Page Starter](http://codedesign.elkind.net/)
+# [Code/Design](http://codedesign.elkind.net/) - [One Page Starter](http://elkindnet.github.io/codedesign-onepage-starter/)
 
-[One Page Starter](http://codedesign.elkind.net/) - one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
+<img src="https://raw.githubusercontent.com/elkindnet/codedesign-onepage-starter/gh-pages/screenshot.jpg">
+[One Page Starter](http://elkindnet.github.io/codedesign-onepage-starter/) - one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
 
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
-* [Download](https://github.com/elkindnet/codedesign-small-business/archive/gh-pages.zip) the latest release on Github
-* [Fork](https://github.com/elkindnet/codedesign-small-business/fork) this repository on GitHub
+* [Download](https://github.com/elkindnet/codedesign-onepage-starter/archive/gh-pages.zip) the latest release on Github
+* [Fork](https://github.com/elkindnet/codedesign-onepage-starter/fork) this repository on GitHub
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-small-business/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/blog/small-business-html-bootstrap/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-onepage-starter/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://elkindnet.github.io/codedesign-onepage-starter/).
 
 ## Creator
 
