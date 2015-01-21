@@ -1,6 +1,6 @@
 # [Code/Design](http://codedesign.elkind.net/) - [One Page Starter](http://codedesign.elkind.net/)
 
-[One Page Starter](http://codedesign.elkind.net/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
+[One Page Starter](http://codedesign.elkind.net/) - one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
 
 ## Getting Started
 
