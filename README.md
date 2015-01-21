@@ -1,6 +1,7 @@
 # [Code/Design](http://codedesign.elkind.net/) - [One Page Starter](http://elkindnet.github.io/codedesign-onepage-starter/)
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-onepage-starter/gh-pages/screenshot.jpg">
+
 [One Page Starter](http://elkindnet.github.io/codedesign-onepage-starter/) - one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
 
 ## Getting Started
