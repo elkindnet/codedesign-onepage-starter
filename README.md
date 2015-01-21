@@ -1,8 +1,8 @@
-# [Code/Design](http://codedesign.elkind.net/) - [One Page Starter](http://elkindnet.github.io/codedesign-onepage-starter/)
+# [Code/Design](http://codedesign.elkind.net/) - [One Page Starter](http://codedesign.elkind.net/htmlandbootstrap/one-page-starter-html-bootstrap/)
 
 <img src="https://raw.githubusercontent.com/elkindnet/codedesign-onepage-starter/gh-pages/screenshot.jpg">
 
-[One Page Starter](http://elkindnet.github.io/codedesign-onepage-starter/) - one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
+[One Page Starter](http://codedesign.elkind.net/htmlandbootstrap/one-page-starter-html-bootstrap/) - one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ To use this template, choose one of the following options to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-onepage-starter/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://elkindnet.github.io/codedesign-onepage-starter/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/elkindnet/codedesign-onepage-starter/issues) here on GitHub or leave a comment on the [template overview page at Code/Design](http://codedesign.elkind.net/htmlandbootstrap/one-page-starter-html-bootstrap/).
 
 ## Creator
 
