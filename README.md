@@ -4,7 +4,7 @@
 
 ###[Live Demo](http://codedesign.elkind.net/htmlandbootstrap/one-page-starter-html-bootstrap/)   |   [Download](https://github.com/elkindnet/codedesign-onepage-starter/archive/gh-pages.zip)
 
-[One Page Starter](http://codedesign.elkind.net/htmlandbootstrap/one-page-starter-html-bootstrap/) - one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Code/Design](http://codedesign.elkind.net/).
+[One Page Starter](http://codedesign.elkind.net/htmlandbootstrap/one-page-starter-html-bootstrap/) - one page starter template with a collapsing, smooth scrolling navigation bar, created by [Code/Design](http://codedesign.elkind.net/).
 
 ## Getting Started
 
